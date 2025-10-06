@@ -1,4 +1,4 @@
-module github.com/ishraq10199/learning_go_ch10_exercise
+module github.com/ishraq10199/learning_go_ch10_exercise/v2
 
 go 1.24.6
 
